@@ -47,10 +47,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidabdullah&show_icons=true&locale=en&layout=compact" alt="hamidabdullah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidabdullah&show_icons=true&locale=en" alt="hamidabdullah" /></p>
-
-
-..
-..
-.
-x
-
