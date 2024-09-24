@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/HamidAbdullah" target="blank">Hamid Abdullah</a></h1> <h3 align="center">A dedicated React Native Developer with 3 years of experience, specializing in JavaScript, TypeScript, Firebase, and Unity from Pakistan 🇵🇰</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamidAbdullah&label=Profile%20views&color=0e75b6&style=flat" alt="HamidAbdullah" /> </p> <a target="_blank" align="center"> <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/HamidAbdullah" target="blank">Hamid Abdullah</a></h1> <h3 align="center">A dedicated React Native Developer with 3 years of experience, specializing in JavaScript, TypeScript, Firebase, and Unity from Pakistan 🇵🇰</h3> <p align="left">
+  
+  <img src="https://komarev.com/ghpvc/?username=HamidAbdullah&label=Profile%20views&color=0e75b6&style=flat" alt="HamidAbdullah" /> </p> <a target="_blank" align="center"> <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a>
+  
 🔭 I’m currently working as a Co-Founder & Senior React Native Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
 🌱 I have extensive experience in developing cross-platform mobile apps with React Native and building dynamic web applications with React.js
 🚀 Expertise in JavaScript (ES6+), TypeScript, Firebase, Deep Linking, Cloud Functions, and API Integration
