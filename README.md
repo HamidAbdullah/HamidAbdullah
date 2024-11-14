@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamid Abdullah</h1>
-<h3 align="center">A dedicated JS Developer with 3 years of experience, specializing in JavaScript, TypeScript, Firebase, and Unity from Pakistan 🇵🇰</h3>
+<h3 align="center">A dedicated JS Developer with 3 years of experience, specializing in JavaScript, TypeScript,NodeJS, ExpressJs , MongoDB,  Firebase, and Unity from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="hamidabdullah" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Gringo](https://github.com/HKhan-ApexInsights/Gringo)
 
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 🤝 I’m looking for help with [Wimbo](https://github.com/InnspirovateTech/Wimbo)
 
 - 👨‍💻 All of my projects are available at [https://innspirovatetech.com/](https://innspirovatetech.com/)
 
-- 💬 Ask me about **JS , TS , React Native, React , Node.js**
+- 💬 Ask me about **JS , TS , React Native, React , Node.js, ExpressJS**
 
 - 📫 How to reach me **hamidabdullahofficial@gmail.com**
 
