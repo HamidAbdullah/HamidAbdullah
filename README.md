@@ -1,112 +1,80 @@
-<h1 align="center">Hi 👋, I'm Hamid Abdullah</h1>
+<div align="center">
 
-<p align="center">
-  <b>React Native & Full Stack JavaScript Developer</b><br/>
-  Building scalable mobile apps & end-to-end systems 🚀
-</p>
+# Hamid Abdullah
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hamidabdullah">
-    <img src="https://komarev.com/ghpvc/?username=hamidabdullah&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
+**Co-Founder @ Innspirovate Tech · Full Stack JavaScript Developer**
 
----
+*I build production-grade mobile and web applications that ship to real users at scale.*
 
-## ⚡ About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=hamidabdullah&label=Profile%20Views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=hamidabdullah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/hamid-abdullah-a60407202/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel)](https://innspirovatetech.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:hamidabdullahofficial@gmail.com)
 
-- 💼 **3+ years of professional experience**
-- 📱 Specialized in **React Native (production-grade apps)**
-- 🌐 Full Stack developer (**Node.js + scalable backend systems**)
-- 🧠 Strong in **architecture, performance & clean code**
-- 🔄 Able to **own features end-to-end (Idea → App Store)**
+</div>
 
 ---
 
-## 🚀 What I’m Working On
+## About
 
-- 🔭 Building **Islam Encyclo** (Production Mobile App)
-- 🤝 Contributing to **Wimbo**
-- 🌱 Deep diving into **system design & backend scalability**
+3+ years building end-to-end JavaScript applications — from architecture decisions to App Store submissions. I specialize in React Native and Node.js, with a track record of shipping apps that reach tens of thousands of users.
 
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-- React.js  
-- React Native  
-- TypeScript  
-- Tailwind CSS  
-
-### ⚙️ Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- Firebase  
-
-### 🧰 Tools & Workflow
-- Redux  
-- REST APIs  
-- Git & GitHub  
-- Postman  
+Currently co-founding **Innspirovate Tech**, where I lead product development across mobile and web.
 
 ---
 
-## 🧠 What Makes Me Different
+## Impact
 
-- ✅ I don’t just write code — I **ship complete products**
-- ✅ I understand **business + user experience**
-- ✅ I focus on **performance, scalability & maintainability**
-- ✅ I can handle **frontend + backend + deployment**
-
----
-
-## 🌐 Portfolio
-
-🔗 https://innspirovatetech.com/
+- 📲 **100K+ total downloads** across production applications
+- 📦 **10+ apps shipped** — architected, built, and deployed end-to-end
+- 🏗️ Own the full lifecycle: requirements → frontend → backend → deployment
+- 🌍 Live products used daily by real users in production
 
 ---
 
-## 📫 Contact
+## Featured Work
 
-- 📧 **hamidabdullahofficial@gmail.com**
-- 💼 **LinkedIn**  
-  https://linkedin.com/in/hamid-abdullah-a60407202/
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/hamid-abdullah-a60407202/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/hamid-abdullah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/hami_siddiqui8" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+| App | Description | Downloads |
+|-----|-------------|-----------|
+| **Islam Encyclo** | Comprehensive Islamic reference app — full-stack React Native + Firebase | 50K+ |
+| **Wimbo** | Production mobile application — React Native + Node.js backend | 50K+ |
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamidabdullah&show_icons=true&locale=en" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidabdullah&layout=compact" />
-</p>
+**Mobile & Frontend**
+React Native · React.js · TypeScript · Tailwind CSS
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidabdullah" />
-</p>
+**Backend & Infrastructure**
+Node.js · Express.js · Firebase · MongoDB
+
+**Workflow**
+Redux · REST APIs · Git · Postman
 
 ---
 
-## 🏆 Philosophy
+## GitHub Stats
 
-> Build real products.  
-> Solve real problems.  
-> Deliver real impact.
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hamidabdullah&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidabdullah&layout=compact&theme=default&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidabdullah&hide_border=true" />
+
+</div>
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/hamid-abdullah-a60407202/)
+- 🌐 [Innspirovate Tech](https://innspirovatetech.com/)
+- 📧 [hamidabdullahofficial@gmail.com](mailto:hamidabdullahofficial@gmail.com)
+
+---
+
+<div align="center">
+<sub>Build real products · Solve real problems · Deliver real impact</sub>
+</div>
